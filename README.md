@@ -10,7 +10,7 @@ To use this software, ensure that
    python -m ensurepip --upgrade
 3. Clone the repository
    ```bash
-   git clone https://github.com/wheesinsty/meeting-reminders.git
+   git clone https://github.com/wheesinsty/meeting-reminder.git
 4. Go to the repository
    ```bash
    cd [insert path to the repository]
