@@ -28,7 +28,7 @@ To use this software, ensure that
 Potential issues and how to resolve them:
 
 1. Permission error
-   How to resolve: Ensure that the excel sheet is closed.
+How to resolve: Ensure that the excel sheet is closed.
 
 ## Contribution
 Thank you to Herman and Clarice for giving me the opportunity to complete this project and contribute to the team :)
