@@ -3,7 +3,8 @@ This script checks the excel sheet for meetings scheduled for tomorrow and sends
 
 ## Set-up
 To use this software, ensure that
-1. Install python from the internet
+1. Install `python` and `git` from the internet
+
 2. In your terminal, install pip with 
    ```bash
    python -m ensurepip --upgrade
